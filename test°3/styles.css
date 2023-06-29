@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+input, button {
+  margin-top: 10px;
+}
+
+#result {
+  margin-top: 20px;
+}
